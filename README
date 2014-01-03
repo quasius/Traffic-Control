@@ -1,0 +1,7 @@
+Traffic Control
+
+Description:
+A simple game written in pure JavaScript on an HTML5 canvas.  Done as a JS learning exercise.
+
+Directions:
+Click the arrow gates to toggle them and direct the balls to the goals
